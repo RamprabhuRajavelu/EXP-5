@@ -1,5 +1,8 @@
 # EXP-5
-EXP. NO. 5. 		ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
+EXP. NO. 5. 		ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR 
+NAME : RAMPRABHU R
+
+REG : 212222040129
 
 AIM
 . To find the Zener Break down voltage regulation condition.
@@ -27,7 +30,23 @@ PROCEDURE:
 3. The voltage across the diode (Vz.) remains almost constant although the current through the diode increases. This voltage serves as reference voltage.
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
+
+Circuit:
+
+<img width="1090" height="568" alt="image" src="https://github.com/user-attachments/assets/87a034f4-74a2-454f-a8c1-a64912fd761d" />
+
 OBSERVATIONS:
+
+![image](https://github.com/user-attachments/assets/a0b53630-be47-4e4e-903f-94b9be6f22dc)
+
+![image](https://github.com/user-attachments/assets/fdc56c20-be05-42d0-b8b3-b2507ab90317)
+
+![image](https://github.com/user-attachments/assets/77d3b0d2-a29c-42ef-9938-9ee3e398ad75)
+
+
+![image](https://github.com/user-attachments/assets/e14c6e8d-a4a5-4527-b3b1-6daf08321b7d)
+
+
 
 REGULATION CHARACTERISTICS:
 
